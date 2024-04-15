@@ -1,0 +1,1086 @@
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'pycacheDel'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.337860107421875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {'pycacheDel' function took 0.0018999576568603516 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'pycacheDel' function was called with a return value 'None'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'pycacheDel'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+INFO : 15-Apr-24 10:50:28 - {NTSModule imported successfully.} from /workspaces/leoandmeproject/NTSModule/__init__.py on line 94
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'clear'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.337860107421875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {'clear' function took 0.002716064453125 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'clear' function was called with a return value 'None'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'clear'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 9.012222290039062e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value 'Module [92mNTSModule[0m has been successfully imported!
+Enjoy!'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.5762786865234375e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 0.00013327598571777344 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mfolderDict created for /workspaces/leoandmeproject/NTSModule/pygameNTS/ButtonClasses[0m'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 1.6927719116210938e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mfolderDict created for /workspaces/leoandmeproject/NTSModule/pygameNTS[0m'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 1.7404556274414062e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mfolderDict created for /workspaces/leoandmeproject/NTSModule[0m'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.337860107421875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 1.7404556274414062e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mfolderDict created for /workspaces/leoandmeproject[0m'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.337860107421875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.337860107421875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 2.6226043701171875e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mlines created for /workspaces/leoandmeproject/NTSModule/pygameNTS/ButtonClasses[0m'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.337860107421875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 1.7881393432617188e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mlines created for /workspaces/leoandmeproject/NTSModule/invalidOption.py[0m'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.337860107421875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 1.811981201171875e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mlines created for /workspaces/leoandmeproject/README.md[0m'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.384185791015625e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 3.0994415283203125e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.86102294921875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'False'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'checkPara'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function took 2.6226043701171875e-06 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'checkPara' function was called with a return value 'True'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'checkPara'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 1.8835067749023438e-05 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[93mCreating file [30minstaller.py[0m.'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
+DEBUG : 15-Apr-24 10:50:28 - {Calling function 'Print'} from /workspaces/leoandmeproject/NTSModule/logger.py on line 58
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function took 0.00016760826110839844 seconds to process.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 51
+DEBUG : 15-Apr-24 10:50:28 - {'Print' function was called with a return value '[92mSuccessfully created file [30minstaller.py[0m, failed files/folders: [91m[][0m.'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 60
+DEBUG : 15-Apr-24 10:50:28 - {Finished calling function 'Print'.} from /workspaces/leoandmeproject/NTSModule/logger.py on line 61
